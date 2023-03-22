@@ -17,7 +17,7 @@ Before you begin, you will need the following:
 
 ### Step 3: Create a new Map component
 
-This [Link](https://blog.logrocket.com/integrating-google-maps-react/) can help you.
+This [Link](https://blog.logrocket.com/integrating-google-maps-react/) can help.
 
 
 ---
